@@ -1,0 +1,9 @@
+A pure tone audiometer is a device used to measure hearing sensitivity. It works by playing pure tones, or single frequencies, at different volumes and pitches. The patient's responses to the tones are used to create an audiogram, which is a graph that shows the patient's hearing threshold at each frequency.
+
+Pure tone audiometry is the most common type of hearing test. It is used to diagnose hearing loss, assess the severity of hearing loss, and monitor changes in hearing over time. It is also used to fit hearing aids and other cochlear implants.
+
+Pure tone audiometry is a non-invasive and painless procedure. It can be performed on children and adults of all ages.
+
+The audiogram is a graph that shows the patient's hearing threshold at each frequency. The hearing threshold is the softest sound that the patient can hear 50% of the time.
+
+Pure tone audiometry is a valuable tool for diagnosing and managing hearing loss. It can help to identify the type and severity of hearing loss, which can lead to the best possible treatment plan.
