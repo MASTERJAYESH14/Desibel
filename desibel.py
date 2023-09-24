@@ -24,7 +24,6 @@ ScreenManager:
     MDLabel:
         text: 'Your own desi hearing aid'
         halign: 'center'
-        color: 0.204, 0.204, 0.204, 0.204, 1
         pos_hint: {'center_x':0.5, 'center_y': 0.8}
         font_size: 50
         font_name: 'Comic'
